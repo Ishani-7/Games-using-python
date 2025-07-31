@@ -1,0 +1,128 @@
+{
+    "EASY": [
+        [
+            "apple",
+            "A common fruit that's red or green."
+        ],
+        [
+            "dog",
+            "Man's best friend."
+        ],
+        [
+            "sun",
+            "The star at the center of our solar system."
+        ],
+        [
+            "book",
+            "Something you read."
+        ],
+        [
+            "fish",
+            "An animal that lives in water."
+        ],
+        [
+            "tree",
+            "Grows in forests and gives shade."
+        ],
+        [
+            "milk",
+            "A white drink from cows."
+        ],
+        [
+            "shoe",
+            "You wear it on your foot."
+        ],
+        [
+            "cake",
+            "A sweet dessert, often for birthdays."
+        ],
+        [
+            "ball",
+            "Used in many sports like football and basketball."
+        ]
+    ],
+    "MEDIUM": [
+        [
+            "planet",
+            "Earth is one of these in the solar system."
+        ],
+        [
+            "bridge",
+            "Structure built to cross water or valleys."
+        ],
+        [
+            "window",
+            "You look through it from your house."
+        ],
+        [
+            "pencil",
+            "Used for writing or drawing."
+        ],
+        [
+            "jungle",
+            "A dense forest with lots of animals."
+        ],
+        [
+            "bottle",
+            "Used to carry liquids."
+        ],
+        [
+            "camera",
+            "Used to take pictures."
+        ],
+        [
+            "engine",
+            "A car cannot run without it."
+        ],
+        [
+            "guitar",
+            "A musical instrument with strings."
+        ],
+        [
+            "silver",
+            "A shiny precious metal."
+        ]
+    ],
+    "HARD": [
+        [
+            "python",
+            "A powerful programming language."
+        ],
+        [
+            "algorithm",
+            "Step-by-step procedure to solve a problem."
+        ],
+        [
+            "microscope",
+            "Used to see very small objects."
+        ],
+        [
+            "astronaut",
+            "Travels into space."
+        ],
+        [
+            "parliament",
+            "Where laws are made in a country."
+        ],
+        [
+            "volcano",
+            "A mountain that erupts with lava."
+        ],
+        [
+            "hemisphere",
+            "Half of the earth."
+        ],
+        [
+            "pneumonia",
+            "A serious lung infection."
+        ],
+        [
+            "philosophy",
+            "Study of the nature of knowledge and existence."
+        ],
+        [
+            "submarine",
+            "A vessel that travels underwater."
+        ]
+    ]
+}
